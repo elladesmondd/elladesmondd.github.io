@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Asset&display=swap');
+
+
+body {
+        font-family: Arial, Helveticasans-serif;
+        background-color:lightyellow
+    }
+    h1{
+        color:navy;
+        background-color:lightblue;
+        padding: 1.5rem;
+        text-transform:uppercase;
+        font-family: 'Asset', sans-serif;
+    }
+    p{
+        padding-left: 1.3rem;
+        padding-right:1.3rem;
+        line-height:1.5rem;
+        font-family:Garamond,'Times New Roman', Times, serif
+    }
+    img{
+        float: right;
+        border: 2px #ffffff solid; /** controls border width, color, line style **/
+        margin: .65rem;
+        max-width:100%;
+    }
+    h2{
+        color:navy;
+        background-color:lightblue;
+        padding: 1.5rem;
+    }
+    a:link{
+        color: deeppink;
+        text-decoration: none;}
+    a:visited{
+        color:blueviolet ; }
+    a:hover{
+        color: darkred;
+        text-decoration: underline;}
+    a:active{
+        color:darkviolet;}
+    
+
+    
+    
