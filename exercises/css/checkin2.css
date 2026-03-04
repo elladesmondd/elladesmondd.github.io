@@ -1,0 +1,67 @@
+@import  url("https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap");
+
+
+body {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color:#f0f8ff
+    }
+    h1{
+        color:#FAEBD7;
+        background-color:#6495ED;
+        padding: 1.5rem;
+        font-family: 'Abril Fatface', serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 400%;
+    }
+    p{
+        padding-left: 1.3rem;
+        padding-right:1.3rem;
+        line-height:1.5rem;
+        font-family:Garamond,'Times New Roman', Times, serif
+    }
+    ol{
+        padding-left: 2.5rem;
+        line-height:1.5rem;
+        font-family:Garamond,'Times New Roman', Times, serif
+    }
+    ul{
+        padding-left:2.5rem;
+        line-height:1.5rem;
+        font-family:Garamond,'Times New Roman', Times, serif
+    }
+    img{
+        float:none;
+        border: 5px #6495ED solid; /** controls border width, color, line style **/
+        margin: .65rem;
+        max-width:100%;
+        height:auto;
+        display: block;
+    }
+    h2{
+        color:#FAEBD7;
+        background-color:#6495ED;
+        padding: 1.5rem;
+        font-family: 'Abril Fatface', serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 200%;
+
+    }
+    h3{
+        font-family:Garamond,'Times New Roman', Times, serif;
+    }
+    a:link{
+        color: #87CEFA;
+        text-decoration: none;}
+    a:visited{
+        color:#778899 ; }
+    a:hover{
+        color: 	#191970;
+        text-decoration: underline;}
+hr{
+    border: none;
+    height: 1px;
+    background-color:	#6495ED;
+    padding: 0.75em;
+}
