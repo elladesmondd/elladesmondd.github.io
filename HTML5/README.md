@@ -27,9 +27,9 @@ My team (Team 4) is working on a webpage about **title cards**: what they are, h
  
 Title cards are used in video content to create clear markers throughout a video. 
 They can act as:
-1. Chapter titles
-2. Summarize key points of information
-3. Give a brief overview of the information to come.
+1. Chapter titles to separate different parts of the video
+2. Summariies of key points of information
+3. A brief overview of the information to come
    
 Title cards improve digital accessibility by clearly **chunking** information in a video. 
 
