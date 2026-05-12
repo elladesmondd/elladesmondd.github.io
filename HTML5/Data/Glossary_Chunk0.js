@@ -1,0 +1,1 @@
+define({'Consectetur':{d:'Definition for consectetur.',l:''},'Ipsum':{d:'Definition for ipsum.',l:''},'Maecenas':{d:'Definition for maecenas.',l:''},'Maximus':{d:'Definition for maximus.',l:''}});
